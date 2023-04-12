@@ -1,0 +1,24 @@
+.product a{
+    text-decoration: none;
+    color: #000;
+}
+.product-image{
+    overflow: hidden;
+    height: 80%;
+}
+.product a img{
+    overflow: hidden;
+    transition: all 0.8s;
+}
+
+.product a:hover img{
+    scale: 1.5;
+}
+
+.loading{
+    z-index: 12;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  

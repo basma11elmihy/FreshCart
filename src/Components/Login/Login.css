@@ -1,0 +1,21 @@
+  label {
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  input[type='email'],
+  input[type='password'],
+  input[type='text'],
+  input[type='phone'] {
+    height: 40px;
+    padding: 0 10px;
+    border: 2px solid #09852875;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+  }
+
+ 
+  
+ 
